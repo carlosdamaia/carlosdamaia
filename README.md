@@ -2,7 +2,7 @@
 
 <p>Olá, me chamo Carlos e eu sou um dev.<p>
 
-<p>Estudo Desenvolvimento de Software na <a href="https://portal.stackx.com.br/" target="_blank">StackX</a> e gosto de dedicar meu tempo livre para o <i>Front-End</i>.</p>
+<p>Estudo Desenvolvimento de Software na <a href="https://portal.stackx.com.br/" target="_blank">StackX</a>.</p>
 
 <h2>Skills</h2>
 
